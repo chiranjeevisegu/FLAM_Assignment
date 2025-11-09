@@ -122,6 +122,10 @@ python dashboard.py
 ```
 
 Visit: **[http://localhost:5000](http://localhost:5000)**
+**Output**
+![WhatsApp Image 2025-11-09 at 17 46 25_38e7252a](https://github.com/user-attachments/assets/f3e41679-13c5-4d76-ad24-cfc7848e38b9)
+![WhatsApp Image 2025-11-09 at 17 46 50_d467e079](https://github.com/user-attachments/assets/12b4f792-5c8e-4e11-a75f-ffdd7a185a69)
+![WhatsApp Image 2025-11-09 at 17 47 07_3987bf88](https://github.com/user-attachments/assets/fc83fc3f-b025-4a16-8e83-66d11c48005d)
 
 ---
 
