@@ -400,10 +400,8 @@ https://drive.google.com/uc?id=1VdXDMg6RsCpPL5bwECzhmgq75yR9SksT&export=download
 **Name:** Chiranjeevi Segu
 **Project:** FLAM — Fault-tolerant Lightweight Asynchronous Manager
 **Tech Stack:** Python, SQLite, Flask, Click
-**Duration:** 5 Days
+**Duration:** 3 Days
 **Role:** Developer, Tester, Designer
 
 ```
-
----
 ```
