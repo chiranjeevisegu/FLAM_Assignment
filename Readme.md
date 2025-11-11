@@ -395,7 +395,7 @@ It’s an end-to-end professional-grade job queue system — entirely written in
 
 ---
 ## Demo Video Link:
-https://drive.google.com/uc?id=1VdXDMg6RsCpPL5bwECzhmgq75yR9SksT&export=download
+[https://drive.google.com/uc?id=1VdXDMg6RsCpPL5bwECzhmgq75yR9SksT&export=download](https://drive.google.com/file/d/1yXMLPmtHkURMd1pTc7IR6Rgy0RjG8kOd/view?usp=sharing)
 
 ---
 
